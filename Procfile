@@ -1,0 +1,1 @@
+web: gunicorn AWWARDS.wsgi --log-file -
